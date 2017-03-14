@@ -1,0 +1,97 @@
+.body{
+	margin: 0;
+	padding;
+}
+
+.header_section{
+	width: 100%;
+	border: 2px solid black;
+	height: 100px;
+	margin-bottom: 20px;
+}
+
+.header{
+	width: 100%;
+	
+	height: 50px
+}
+
+.header_logo{
+	width: 35%;
+	height: 50px;
+	border: 2px solid black;
+	box-sizing: border-box;
+	float: left;
+	overflow: hidden;
+}
+
+.header_banner{
+	width: 65%;
+	height: 50px;
+	border: 2px solid black;
+	box-sizing: border-box;
+	float: right;
+	overflow: hidden;
+}
+/* end of header Section*/
+
+
+
+.content{
+	width: 100%;
+	height: 400px;
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.left_block{
+	width: 25%;
+	border: 2px solid black;
+	height: 400px;
+	box-sizing: border-box;
+	float: left;
+	overflow: hidden;
+}
+
+.right_block{
+	width: 25%;
+	border: 2px solid black;
+	height: 400px;
+	box-sizing: border-box;
+	float: right;
+	overflow: hidden;
+}
+
+.center_block{
+	width: 50%;
+	border: 2px solid black;
+	height: 400px;
+	box-sizing: border-box;
+	float: left;
+	overflow: hidden;
+	
+}
+
+
+.center_blocks{
+	width: 100%;
+	border: 2px solid red;
+	height: 128px;
+}
+
+.center_blocks1{
+	width: 50%;
+	height: 128px;
+	border: 2px solid black;
+	float: left;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+/* end of content section*/
+
+
+.footer{
+	width: 100%;
+	height: 100px;
+	border: 2px solid black;
+}
